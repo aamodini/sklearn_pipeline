@@ -4,4 +4,6 @@
 
 The file `full_model.ipynb` goes through all the code that has been explained in detail in the Medium article written by Scott Adams and Aamodini Gupta. Alternatively, there is a Binder link that provides an interactive Jupyter Notebook for immediate use and testing. 
 
-For more context on this repository, read the article here: 
+For more context on this repository, read the article:
+- On [Medium](https://towardsdatascience.com/data-science-plumbing-peeking-into-scikit-learn-pipelines-f9233ad638e)
+- On [my website](https://www.aamo.me/blog/data-science-plumbing-peeking-into-scikit-learn-pipelines)
